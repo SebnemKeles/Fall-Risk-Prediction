@@ -28,19 +28,19 @@ The study utilized a public dataset from the Mendeley Data website, consisting o
 ## 🚀 Workflow
 
 1. **Preprocessing**
-  - Pose estimation using OpenPose  
-  - Reshaping and Standardization
+   - Pose estimation using OpenPose  
+   - Reshaping and Standardization
 
 2.  **Model Training**
-  - ML Models: k-Nearest Neighbor (kNN), Support Vector Machine (SVM)  
-  - DL Models: Long Short-Term Memory (LSTM), Convolutional Neural Networks (CNN)  
-  - Ensemble Model: Random Forest, Gradient Boosting
+   - ML Models: k-Nearest Neighbor (kNN), Support Vector Machine (SVM)  
+   - DL Models: Long Short-Term Memory (LSTM), Convolutional Neural Networks (CNN)  
+   - Ensemble Model: Random Forest, Gradient Boosting
 
 3. **Evaluation**
-  - Accuracy, Precision, Recall, F1-Score  
-  - Confusion Matrix  
-  - Cross-validation  
-  - Hyperparameter tuning (GridSearchCV, manual tuning for DL)
+   - Accuracy, Precision, Recall, F1-Score  
+   - Confusion Matrix  
+   - Cross-validation  
+   - Hyperparameter tuning (GridSearchCV, manual tuning for DL)
 
   
 ## 📈 Results
